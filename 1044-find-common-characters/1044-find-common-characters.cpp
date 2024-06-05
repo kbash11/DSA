@@ -1,10 +1,10 @@
 class Solution {
 public:
-    vector<string> commonChars(vector<string>& words) {
+    vector<string> commonChars(vector<string>& words) { 
         vector<int> arr(26,INT_MAX);
         string str=words[0];
 
-        for(int i=0;i<str.size();i++){
+        for(int i=0;i<str.size();i++){       // T.C- O(100)
             int ind=str[i]-'a';
             if(arr[ind]==INT_MAX){
                 arr[ind]=1;
@@ -13,8 +13,8 @@ public:
             } 
         }
 
-        for(int i=1;i<words.size();i++){
-            unordered_map<char,int> m2;
+        for(int i=1;i<words.size();i++){        //T.C-O(10000) in worst case i.e n^2
+            unordered_map<char,int> m2;         // S.C-O(10000) in worst case i.e n^2
             string s=words[i];
             for(int j=0;j<s.size();j++){
                 m2[s[j]]++;
@@ -29,7 +29,7 @@ public:
                 }
             }
         }
-        
+
         vector<string> ans;
         for(int i=0;i<26;i++){
             if(arr[i]!=INT_MAX){
