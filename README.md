@@ -28,6 +28,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/kbash11/Graph/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1217-relative-sort-array](https://github.com/kbash11/Graph/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kbash11/Graph/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
 # Hash Table
 |  |
 | ------- |
@@ -65,7 +66,25 @@
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kbash11/Graph/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
 # Matrix
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kbash11/Graph/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
+# Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
+# Depth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
+# Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
