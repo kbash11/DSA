@@ -1,6 +1,7 @@
 # Graph
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kbash11/Graph/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 
 
 # Two Pointers
@@ -107,8 +108,14 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kbash11/Graph/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 # Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kbash11/Graph/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+# Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/kbash11/Graph/tree/master/2090-number-of-ways-to-arrive-at-destination) |
