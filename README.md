@@ -18,6 +18,7 @@
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/kbash11/Graph/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/kbash11/Graph/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kbash11/Graph/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kbash11/Graph/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kbash11/Graph/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/kbash11/Graph/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/kbash11/Graph/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/kbash11/Graph/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/kbash11/Graph/tree/master/0876-hand-of-straights) |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kbash11/Graph/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/kbash11/Graph/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/kbash11/Graph/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kbash11/Graph/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/kbash11/Graph/tree/master/1137-height-checker) |
@@ -101,6 +104,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/kbash11/Graph/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
