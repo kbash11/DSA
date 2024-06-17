@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kbash11/Graph/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/kbash11/Graph/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/kbash11/Graph/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/kbash11/Graph/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/kbash11/Graph/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/kbash11/Graph/tree/master/1013-fibonacci-number) |
 # Prefix Sum
 |  |
@@ -93,6 +95,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/kbash11/Graph/tree/master/0633-sum-of-square-numbers) |
 | [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
 # Depth-First Search
 |  |
