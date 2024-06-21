@@ -40,6 +40,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kbash11/Graph/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/kbash11/Graph/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/kbash11/Graph/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/kbash11/Graph/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kbash11/Graph/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1217-relative-sort-array](https://github.com/kbash11/Graph/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kbash11/Graph/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -143,3 +144,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/kbash11/Graph/tree/master/1013-fibonacci-number) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/kbash11/Graph/tree/master/1138-grumpy-bookstore-owner) |
