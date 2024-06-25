@@ -110,6 +110,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kbash11/Graph/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
 # Union Find
 |  |
@@ -159,3 +160,15 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/kbash11/Graph/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kbash11/Graph/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kbash11/Graph/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kbash11/Graph/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
