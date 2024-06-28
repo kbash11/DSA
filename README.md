@@ -3,6 +3,7 @@
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kbash11/Graph/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [1916-find-center-of-star-graph](https://github.com/kbash11/Graph/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/kbash11/Graph/tree/master/2379-maximum-total-importance-of-roads) |
 
 
 # Two Pointers
@@ -28,6 +29,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/kbash11/Graph/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/kbash11/Graph/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kbash11/Graph/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2379-maximum-total-importance-of-roads](https://github.com/kbash11/Graph/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/kbash11/Graph/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
@@ -68,6 +70,7 @@
 | [1137-height-checker](https://github.com/kbash11/Graph/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/kbash11/Graph/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/kbash11/Graph/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2379-maximum-total-importance-of-roads](https://github.com/kbash11/Graph/tree/master/2379-maximum-total-importance-of-roads) |
 # Trie
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0744-network-delay-time](https://github.com/kbash11/Graph/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kbash11/Graph/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/kbash11/Graph/tree/master/1753-path-with-minimum-effort) |
+| [2379-maximum-total-importance-of-roads](https://github.com/kbash11/Graph/tree/master/2379-maximum-total-importance-of-roads) |
 # Dynamic Programming
 |  |
 | ------- |
