@@ -192,14 +192,17 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kbash11/Graph/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kbash11/Graph/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
@@ -209,6 +212,7 @@
 ## Union Find
 |  |
 | ------- |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kbash11/Graph/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
