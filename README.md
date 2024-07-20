@@ -222,6 +222,7 @@
 | [1293-three-consecutive-odds](https://github.com/kbash11/Graph/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kbash11/Graph/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kbash11/Graph/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kbash11/Graph/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/kbash11/Graph/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kbash11/Graph/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kbash11/Graph/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kbash11/Graph/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kbash11/Graph/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kbash11/Graph/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
@@ -318,4 +320,5 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kbash11/Graph/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kbash11/Graph/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
