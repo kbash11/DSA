@@ -230,6 +230,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kbash11/Graph/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kbash11/Graph/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/kbash11/Graph/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/kbash11/Graph/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kbash11/Graph/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/kbash11/Graph/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/kbash11/Graph/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kbash11/Graph/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/kbash11/Graph/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kbash11/Graph/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/kbash11/Graph/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/kbash11/Graph/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -301,6 +304,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kbash11/Graph/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kbash11/Graph/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kbash11/Graph/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/kbash11/Graph/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
