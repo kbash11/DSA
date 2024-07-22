@@ -2,32 +2,33 @@ class Solution {
 public:
     int K = 0;
 
-    bool dfs(int node, vector<list<int>>& adj, vector<int>& vis, vector<int>& stackFlag, stack<int>& s) {
-        vis[node] = 1;
-        stackFlag[node] = 1;
+    bool dfs(int node, vector<list<int>>& adj, vector<int>& vis, stack<int>& s) {
+        vis[node] = 2;
+        // stackFlag[node] = 1;
         
         for (auto it : adj[node]) {
-            if (!vis[it] && dfs(it, adj, vis, stackFlag, s)) {
+            if (vis[it]==0 && dfs(it, adj, vis, s)) {
+                vis[it]=2;
                 return true;
-            } else if (stackFlag[it]) {
+            } else if (vis[it]==2) {
                 return true;
             }
         }
         
-        stackFlag[node] = 0;
+        vis[node] = 1;
         s.push(node);
         return false;
     }
 
     vector<int> topoSort(vector<list<int>> adj) {
-        vector<int> vis(K+1, 0);
-        vector<int> stackFlag(K+1, 0); // To detect cycles
+        vector<int> vis(K+1, 0);       // for visited vis = 1, same Path vis=2, unvisited vis=0
+        // vector<int> stackFlag(K+1, 0); // To detect cycles
         stack<int> s;
         vector<int> ans;
 
         for (int i = 1; i <= K; i++) {
             if (!vis[i]) {
-                if (dfs(i, adj, vis, stackFlag, s)) {
+                if (dfs(i, adj, vis, s)) {
                     return {}; // Cycle detected, return empty vector
                 }
             }
