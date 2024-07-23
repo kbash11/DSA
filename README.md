@@ -191,6 +191,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kbash11/Graph/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -312,6 +313,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0726-number-of-atoms](https://github.com/kbash11/Graph/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kbash11/Graph/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kbash11/Graph/tree/master/1720-crawler-log-folder) |
@@ -320,12 +322,14 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kbash11/Graph/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kbash11/Graph/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
