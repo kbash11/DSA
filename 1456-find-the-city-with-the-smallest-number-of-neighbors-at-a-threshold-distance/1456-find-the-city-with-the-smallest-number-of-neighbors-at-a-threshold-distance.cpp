@@ -1,38 +1,52 @@
 class Solution {
 public:
+    void solve(int src, vector<list<pair<int, int>>>& adj, vector<int>& arr) {
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        pq.push({0, src});
+        arr[src] = 0; // Set the distance to the source itself to 0
+
+        while (!pq.empty()) {
+            auto [dist, node] = pq.top();
+            pq.pop();
+
+            for (auto it : adj[node]) {
+                if (dist + it.second < arr[it.first]) {
+                    pq.push({dist + it.second, it.first});
+                    arr[it.first] = dist + it.second;
+                }
+            }
+        }
+    }
+
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        vector<vector<int>> dist(n,vector<int>(n,INT_MAX));
-        for(auto it:edges){
-            dist[it[0]][it[1]]=it[2];
-            dist[it[1]][it[0]]=it[2];
+        vector<list<pair<int, int>>> adj(n); // Initialize adjacency list with size n
+        for (const auto& edge : edges) {
+            adj[edge[0]].push_back({edge[1], edge[2]});
+            adj[edge[1]].push_back({edge[0], edge[2]}); // Consider undirected graph
         }
-        for(int i=0;i<n;i++){
-            dist[i][i]=0;
+
+        vector<vector<int>> dist(n, vector<int>(n, INT_MAX)); // Initialize distance matrix
+
+        for (int i = 0; i < n; i++) {
+            vector<int> arr(n, INT_MAX);
+            solve(i, adj, arr);
+            dist[i] = arr; // Store distances from node i to all other nodes
         }
-        for (int k = 0; k < n; k++) {
-			for (int i = 0; i < n; i++) {
-				for (int j = 0; j < n; j++) {
-					if (dist[i][k] == INT_MAX || dist[k][j] == INT_MAX)
-						continue;
-					dist[i][j] = min(dist[i][j], dist[i][k] + dist[k][j]);
-				}
-			}
-		}
 
-		int cntCity = n;
-		int cityNo = -1;
-		for (int city = 0; city < n; city++) {
-			int cnt = 0;
-			for (int adjCity = 0; adjCity < n; adjCity++) {
-				if (dist[city][adjCity] <= distanceThreshold)
-					cnt++;
-			}
-
-			if (cnt <= cntCity) {
-				cntCity = cnt;
-				cityNo = city;
-			}
-		}
-		return cityNo;
+        int ans = 0;
+        int mini = INT_MAX;
+        for (int i = 0; i < n; i++) {
+            int count = 0;
+            for (int j = 0; j < n; j++) {
+                if (i != j && dist[i][j] <= distanceThreshold) {
+                    count++;
+                }
+            }
+            if (count <= mini) {
+                mini = count;
+                ans = i;
+            }
+        }
+        return ans;
     }
 };
