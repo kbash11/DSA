@@ -19,33 +19,21 @@ public:
         }
     }
 
-    vector<vector<long long>> findShortestPath(vector<vector<int>>& graph) {
-        vector<list<pair<int, int>>> adj(26); 
-        for (int i = 0; i < graph.size(); i++) {
-            int u = graph[i][0];
-            int v = graph[i][1];
-            int w = graph[i][2];
+    long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
+        vector<list<pair<int, int>>> adj(26);    // O(1)
+        for (int i = 0; i < original.size(); i++) {
+            int u = original[i]-'a';
+            int v = changed[i]-'a';
+            int w = cost[i];
             adj[u].push_back({v, w});
         }
-        vector<vector<long long>> dist(26, vector<long long>(26, LLONG_MAX)); 
+        vector<vector<long long>> dist(26, vector<long long>(26, LLONG_MAX));    //O(1)
 
         for (int i = 0; i < 26; i++) {
             vector<long long> arr(26, LLONG_MAX);
             solve(i, adj, arr);
             dist[i] = arr; 
         }
-        return dist;
-    }
-
-    long long minimumCost(string source, string target, vector<char>& original, vector<char>& changed, vector<int>& cost) {
-        vector<vector<int>> graph(original.size(), vector<int>(3));
-        for (int i = 0; i < original.size(); i++) {
-            graph[i][0] = original[i] - 'a';
-            graph[i][1] = changed[i] - 'a';
-            graph[i][2] = cost[i];
-        }
-
-        vector<vector<long long>> dist = findShortestPath(graph);
 
         long long totalCost = 0;
 
