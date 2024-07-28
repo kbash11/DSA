@@ -201,6 +201,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kbash11/Graph/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kbash11/Graph/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kbash11/Graph/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kbash11/Graph/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kbash11/Graph/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kbash11/Graph/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kbash11/Graph/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kbash11/Graph/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kbash11/Graph/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
