@@ -230,6 +230,7 @@
 | [1293-three-consecutive-odds](https://github.com/kbash11/Graph/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kbash11/Graph/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kbash11/Graph/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/kbash11/Graph/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kbash11/Graph/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kbash11/Graph/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/kbash11/Graph/tree/master/1720-crawler-log-folder) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kbash11/Graph/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/kbash11/Graph/tree/master/1511-count-number-of-teams) |
 ## Shortest Path
 |  |
 | ------- |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kbash11/Graph/tree/master/0948-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/kbash11/Graph/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
