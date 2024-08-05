@@ -193,6 +193,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/kbash11/Graph/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kbash11/Graph/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -365,6 +367,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kbash11/Graph/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -374,6 +377,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kbash11/Graph/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kbash11/Graph/tree/master/2306-create-binary-tree-from-descriptions) |
