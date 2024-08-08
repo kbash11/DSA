@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0300-longest-increasing-subsequence](https://github.com/kbash11/Graph/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kbash11/Graph/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0921-spiral-matrix-iii](https://github.com/kbash11/Graph/tree/master/0921-spiral-matrix-iii) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kbash11/Graph/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/kbash11/Graph/tree/master/0726-number-of-atoms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -384,6 +386,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kbash11/Graph/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
@@ -398,6 +401,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kbash11/Graph/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kbash11/Graph/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
@@ -415,6 +419,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/kbash11/Graph/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
