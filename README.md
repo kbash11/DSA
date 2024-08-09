@@ -193,6 +193,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kbash11/Graph/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kbash11/Graph/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
@@ -328,6 +329,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kbash11/Graph/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kbash11/Graph/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kbash11/Graph/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kbash11/Graph/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0726-number-of-atoms](https://github.com/kbash11/Graph/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kbash11/Graph/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kbash11/Graph/tree/master/1720-crawler-log-folder) |
@@ -390,6 +393,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kbash11/Graph/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kbash11/Graph/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
@@ -405,6 +409,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kbash11/Graph/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kbash11/Graph/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kbash11/Graph/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kbash11/Graph/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kbash11/Graph/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kbash11/Graph/tree/master/0662-maximum-width-of-binary-tree) |
